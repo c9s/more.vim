@@ -16,6 +16,4 @@ USAGE
 
 command `:AppendMoreText`
 
-insert mode mapping:  `more`
-
-
+insert mode mapping:  `\`more`

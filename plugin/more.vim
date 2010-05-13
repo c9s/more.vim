@@ -13,6 +13,6 @@ endf
 fun! AppendMoreText()
   cal append(line('.'),  GetMoreText() )
 endf
-inoremap <expr> more  GetMoreText()
+inoremap <expr> `more  GetMoreText()
 
 " cal GetMoreText()
