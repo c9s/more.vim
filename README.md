@@ -20,7 +20,7 @@ MORE.vim
 
 很困惑嗎？不知道該說些什麼，就呼叫一下 More text 吧！XD
 
-一用就愛上的中文假文產生器。現在也有 Vim plugin 了！ (rock)
+一用就愛上的中文假文產生器。
 
 於是我忍不住又 More and more....
 
