@@ -6,7 +6,6 @@ MORE.vim
 
 很困惑嗎？不知道該說些什麼，就呼叫一下 More text 吧！XD
 
-
 長官勉勵：
 
     「什麼樣子，生理的作用在一程度以外，鬧出什麼事來？」
@@ -26,3 +25,8 @@ MORE.vim
 
 而輸入 `:AppendMoreText` 命令可在下一行插入假文。
 
+
+更多
+====
+
+http://more.handlino.com/
