@@ -11,14 +11,18 @@ MORE.vim
 
     「什麼樣子，生理的作用在一程度以外，鬧出什麼事來？」
 
-INSTALL
+安裝
 =======
 
     $ make install
 
-USAGE
+用法
 =====
 
-- Command `:AppendMoreText`
-- Insert mode mapping:  `\`more`
+- 命令 `:AppendMoreText`
+- 快速鍵:  `\`more`
+
+簡單的說，在輸入模式時，輸入 `\`more` 即可隨心所欲自動插入假文。
+
+而輸入 `:AppendMoreText` 命令可在下一行插入假文。
 
