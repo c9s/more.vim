@@ -47,13 +47,13 @@ MORE.vim
 - 命令 `:AppendMoreText[ count]`，其中 `[ count]` 是可选的数值。
 - 命令 `:MoreText[ count]`，同上。
 - 插入模式快速鍵：``more`
-- 普通模式快捷键：`[count]`more`
+- 普通模式快捷键：`[count]\`more`
 - 普通模式快捷键：`[count]<leader>more`
 
 簡單的說，在輸入模式時，輸入 ``more` 即可隨心所欲自動插入假文；
 如果安装有 snipMate.vim，还可以使用 `[count]more<Tab>` 插入 count 行。
 
-而輸入 `:MoreText[ count]` 命令可在下 count 行插入假文。
+而輸入 `:MoreText[ count]` 命令可在下一行插入 count 行假文。
 
 不过个人最推荐的方式是使用 for snipMate 的方式。(闲耘)
 
